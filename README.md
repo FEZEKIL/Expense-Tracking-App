@@ -32,3 +32,10 @@ Give the user a way to add and delete expenses
 Give the user a way to manage categories and tags
 Implement CRUD operations for expense data
 Integrate local storage to save data persistently
+
+## Screens
+
+Explore screens
+
+![alt text](expense-delete-expense.png) ![alt text](expense-new-tag.png) ![alt text](expense-manage-tags.png) ![alt text](expense-manage-category.png) ![alt text](expense-menu.png) ![alt text](expense-add-expense.png) ![alt text](expense-home-screen-2.png) ![alt text](expense-home-screen-1.png) ![alt text](expense-empty-home.png)
+
